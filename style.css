@@ -232,11 +232,13 @@ section {
 .btn-color-1,
 .btn-color-2 {
   border: rgb(53, 53, 53) 0.1rem solid;
+  text-decoration: none;
 }
 
 .btn-color-1:hover,
 .btn-color-2:hover {
   cursor: pointer;
+  text-decoration: none;
 }
 
 .btn-color-1,
